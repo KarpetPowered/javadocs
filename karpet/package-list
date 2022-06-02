@@ -22,6 +22,10 @@ $dokka.location:dev.interfiber.karpet.server.biomes/SparseJungle/SparseJungle/#/
 $dokka.location:dev.interfiber.karpet.server.biomes/SwampBiome///PointingToDeclaration/karpet/dev.interfiber.karpet.server.biomes/-swamp-biome/index.html
 $dokka.location:dev.interfiber.karpet.server.biomes/SwampBiome/SwampBiome/#/PointingToDeclaration/karpet/dev.interfiber.karpet.server.biomes/-swamp-biome/-swamp-biome.html
 $dokka.location:dev.interfiber.karpet.server.commands////PointingToDeclaration/karpet/dev.interfiber.karpet.server.commands/index.html
+$dokka.location:dev.interfiber.karpet.server.commands/GiveItemCommand///PointingToDeclaration/karpet/dev.interfiber.karpet.server.commands/-give-item-command/index.html
+$dokka.location:dev.interfiber.karpet.server.commands/GiveItemCommand/GiveItemCommand/#/PointingToDeclaration/karpet/dev.interfiber.karpet.server.commands/-give-item-command/-give-item-command.html
+$dokka.location:dev.interfiber.karpet.server.commands/GivePermissonCommand///PointingToDeclaration/karpet/dev.interfiber.karpet.server.commands/-give-permisson-command/index.html
+$dokka.location:dev.interfiber.karpet.server.commands/GivePermissonCommand/GivePermissonCommand/#/PointingToDeclaration/karpet/dev.interfiber.karpet.server.commands/-give-permisson-command/-give-permisson-command.html
 $dokka.location:dev.interfiber.karpet.server.commands/SaveWorldCommand///PointingToDeclaration/karpet/dev.interfiber.karpet.server.commands/-save-world-command/index.html
 $dokka.location:dev.interfiber.karpet.server.commands/SaveWorldCommand/SaveWorldCommand/#net.minestom.server.instance.InstanceContainer/PointingToDeclaration/karpet/dev.interfiber.karpet.server.commands/-save-world-command/-save-world-command.html
 $dokka.location:dev.interfiber.karpet.server.config////PointingToDeclaration/karpet/dev.interfiber.karpet.server.config/index.html
@@ -69,7 +73,7 @@ $dokka.location:dev.interfiber.karpet.server.player/PlayerBackpack///PointingToD
 $dokka.location:dev.interfiber.karpet.server.player/PlayerBackpack/PlayerBackpack/#/PointingToDeclaration/karpet/dev.interfiber.karpet.server.player/-player-backpack/-player-backpack.html
 $dokka.location:dev.interfiber.karpet.server.player/PlayerBackpack/canMineBlock/#net.minestom.server.instance.block.Block#net.minestom.server.entity.Player/PointingToDeclaration/karpet/dev.interfiber.karpet.server.player/-player-backpack/can-mine-block.html
 $dokka.location:dev.interfiber.karpet.server.player/PlayerBackpack/pickupItemCallback/#net.minestom.server.event.item.PickupItemEvent/PointingToDeclaration/karpet/dev.interfiber.karpet.server.player/-player-backpack/pickup-item-callback.html
-$dokka.location:dev.interfiber.karpet.server.player/PlayerBackpack/spawnItemStack/#net.minestom.server.item.Material?#net.minestom.server.coordinate.Pos?#net.minestom.server.instance.InstanceContainer?/PointingToDeclaration/karpet/dev.interfiber.karpet.server.player/-player-backpack/spawn-item-stack.html
+$dokka.location:dev.interfiber.karpet.server.player/PlayerBackpack/spawnItemStack/#net.minestom.server.item.Material?#net.minestom.server.coordinate.Pos#net.minestom.server.instance.InstanceContainer?/PointingToDeclaration/karpet/dev.interfiber.karpet.server.player/-player-backpack/spawn-item-stack.html
 $dokka.location:dev.interfiber.karpet.server.player/PlayerBlockHandler///PointingToDeclaration/karpet/dev.interfiber.karpet.server.player/-player-block-handler/index.html
 $dokka.location:dev.interfiber.karpet.server.player/PlayerBlockHandler/breakBlockHandler/#net.minestom.server.event.player.PlayerBlockBreakEvent/PointingToDeclaration/karpet/dev.interfiber.karpet.server.player/-player-block-handler/break-block-handler.html
 $dokka.location:dev.interfiber.karpet.server.player/PlayerCraftingHandler///PointingToDeclaration/karpet/dev.interfiber.karpet.server.player/-player-crafting-handler/index.html
